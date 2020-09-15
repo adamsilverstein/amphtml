@@ -132,7 +132,7 @@ the [general AMP boilerplate](https://github.com/ampproject/amphtml/blob/master/
 <tbody>
   <tr>
     <td><code>position:fixed</code> and <code>position:sticky</code> are prohibited in creative CSS.</td>
-    <td><code>position:fixed</code> breaks out of shadow DOM, which AMPHTML ads depend on. lso, ads in AMP are already not allowed to use fixed position.</td>
+    <td><code>position:fixed</code> breaks out of shadow DOM, which AMPHTML ads depend on. Also, ads in AMP are already not allowed to use fixed position.</td>
   </tr>
   <tr>
     <td><code>touch-action</code> is prohibited.</td>
